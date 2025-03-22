@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Engineer Student
 ----------------
 
-a third-year student studying IoT Engineering, Information Science, and Industrial Physics. I'm passionate about backend development and currently looking for an internship opportunity to gain hands-on experience in real-world projects.
-
 * 🌍  I'm based in Thailand
 
 <a href="https://www.github.com/inwchamp1337" target="_blank" rel="noreferrer"><img
