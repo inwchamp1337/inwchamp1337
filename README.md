@@ -13,7 +13,7 @@ src="https://img.shields.io/github/followers/inwchamp1337?logo=github&style=for-
 
 #### 📱 iOS Project  
 [![ScenicView](https://github-readme-stats.vercel.app/api/pin/?username=inwchamp1337&repo=ScenicView&theme=radical)](https://github.com/inwchamp1337/ScenicView)  
-
+[![randomanimequote](https://github-readme-stats.vercel.app/api/pin/?username=inwchamp1337&repo=randomanimequote&theme=radical)](https://github.com/inwchamp1337/randomanimequote) 
 #### 🤖 AI Backend Project  
 [![Linebotdetectspam](https://github-readme-stats.vercel.app/api/pin/?username=defphoo47&repo=Linebotdetectspam&theme=radical)](https://github.com/defphoo47/Linebotdetectspam)  
 
