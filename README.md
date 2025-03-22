@@ -9,6 +9,9 @@ Engineer Student
 <a href="https://www.github.com/inwchamp1337" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/inwchamp1337?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+### 🚀 Pinned Projects  
+
+[![ScenicView](https://github-readme-stats.vercel.app/api/pin/?username=inwchamp1337&repo=ScenicView&theme=radical)](https://github.com/inwchamp1337/ScenicView)
 ### Skills
 
 
