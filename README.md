@@ -10,13 +10,16 @@ Engineer Student
 src="https://img.shields.io/github/followers/inwchamp1337?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### 🚀 Pinned Projects  
-IOS PROJECT
-[![ScenicView](https://github-readme-stats.vercel.app/api/pin/?username=inwchamp1337&repo=ScenicView&theme=radical)](https://github.com/inwchamp1337/ScenicView)
-Ai-BACKEND PROJECT 
-[![Linebotdetectspam](https://github-readme-stats.vercel.app/api/pin/?username=defphoo47&repo=Linebotdetectspam&theme=radical)](https://github.com/defphoo47/Linebotdetectspam)
 
-Backend+DevOps PROJECT 
-[![Course_Review_back](https://github-readme-stats.vercel.app/api/pin/?username=paris05494&repo=Course_Review_back&theme=radical)](https://github.com/paris05494/Course_Review_back)
+#### 📱 iOS Project  
+[![ScenicView](https://github-readme-stats.vercel.app/api/pin/?username=inwchamp1337&repo=ScenicView&theme=radical)](https://github.com/inwchamp1337/ScenicView)  
+
+#### 🤖 AI Backend Project  
+[![Linebotdetectspam](https://github-readme-stats.vercel.app/api/pin/?username=defphoo47&repo=Linebotdetectspam&theme=radical)](https://github.com/defphoo47/Linebotdetectspam)  
+
+#### 🔧 Backend & DevOps Project  
+[![Course_Review_back](https://github-readme-stats.vercel.app/api/pin/?username=paris05494&repo=Course_Review_back&theme=radical)](https://github.com/paris05494/Course_Review_back)  
+
 
 ### Skills
 
