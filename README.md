@@ -21,7 +21,8 @@ src="https://img.shields.io/github/followers/inwchamp1337?logo=github&style=for-
 #### 🔧 Backend & DevOps Project  
 [![Course_Review_back](https://github-readme-stats.vercel.app/api/pin/?username=paris05494&repo=Course_Review_back&theme=radical)](https://github.com/paris05494/Course_Review_back)  
 
-
+#### 🤖 IOT & Embedded Systems & AI
+[![chatbot-on-raspberry-pi-zero-w](https://github-readme-stats.vercel.app/api/pin/?username=inwchamp1337&repo=chatbot-on-rasberry-pi-zero-w&theme=radical)](https://github.com/inwchamp1337/chatbot-on-rasberry-pi-zero-w)
 ### Skills
 
 
