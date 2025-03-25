@@ -21,8 +21,8 @@ src="https://img.shields.io/github/followers/inwchamp1337?logo=github&style=for-
 #### 🔧 Backend & DevOps Project  
 [![KMTLCORE_REVIEW_BACKEND](https://github-readme-stats.vercel.app/api/pin/?username=inwchamp1337&repo=KMTLCORE_REVIEW_BACKEND&theme=radical)](https://github.com/inwchamp1337/KMTLCORE_REVIEW_BACKEND)  
 
-#### 🤖 IOT & Embedded Systems & AI  
-[![chatbot-on-raspberry-pi-zero-w](https://github-readme-stats.vercel.app/api/pin/?username=inwchamp1337&repo=chatbot-on-raspberry-pi-zero-w&theme=radical)](https://github.com/inwchamp1337/chatbot-on-raspberry-pi-zero-w)  
+#### 🤖 IOT & Embedded Systems & AI
+[![chatbot-on-raspberry-pi-zero-w](https://github-readme-stats.vercel.app/api/pin/?username=inwchamp1337&repo=chatbot-on-rasberry-pi-zero-w&theme=radical)](https://github.com/inwchamp1337/chatbot-on-rasberry-pi-zero-w) 
 
 
 ### Skills
