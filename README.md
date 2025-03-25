@@ -19,11 +19,11 @@ src="https://img.shields.io/github/followers/inwchamp1337?logo=github&style=for-
 [![Linebotdetectspam](https://github-readme-stats.vercel.app/api/pin/?username=defphoo47&repo=Linebotdetectspam&theme=radical)](https://github.com/defphoo47/Linebotdetectspam)  
 
 #### 🔧 Backend & DevOps Project  
-[![KMTLCORE_REVIEW_BACKEND](https://github-readme-stats.vercel.app/api/pin/?username=inwchamp1337&repo=KMTLCORE_REVIEW_BACKEND&theme=radical)]([https://github.com/inwchamp1337/KMTLCORE_REVIEW_BACKEND])  
+[![KMTLCORE_REVIEW_BACKEND](https://github-readme-stats.vercel.app/api/pin/?username=inwchamp1337&repo=KMTLCORE_REVIEW_BACKEND&theme=radical)](https://github.com/inwchamp1337/KMTLCORE_REVIEW_BACKEND)  
 
-#### 🤖 IOT & Embedded Systems & AI
-[![chatbot-on-raspberry-pi-zero-w](https://github-readme-stats.vercel.app/api/pin/?username=inwchamp1337&repo=chatbot-on-rasberry-pi-zero-w&theme=radical)](https://github.com/inwchamp1337/chatbot-on-rasberry-pi-zero-w)
-### Skills
+#### 🤖 IOT & Embedded Systems & AI  
+[![chatbot-on-raspberry-pi-zero-w](https://github-readme-stats.vercel.app/api/pin/?username=inwchamp1337&repo=chatbot-on-raspberry-pi-zero-w&theme=radical)](https://github.com/inwchamp1337/chatbot-on-raspberry-pi-zero-w)  
+
 
 
 <p align="left">
